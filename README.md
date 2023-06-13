@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ⚙️ Cosas que uso para productividad
 
-  • SO: ArchLinux</br>
+  • SO: Windows</br>
   • Terminal: Git Bash</br>
   • Editor de Texto : Visual Code</br>
   
