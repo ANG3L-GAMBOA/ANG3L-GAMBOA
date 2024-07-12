@@ -92,8 +92,8 @@ Here are some ideas to get you started:
 ##  📊 Estadisticas
 
 <div align="center">
-   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANG3L-GAMBOA&layout=compact&theme=tokyonight&count_private=true"> 
-   <img height="200" src="https://github-readme-stats.vercel.app/api?username=ANG3L-GAMBOA&theme=tokyonight&show_icons=true&count_private=true">
+   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANG3L-GAMBOA&layout=compact&theme=tokyonight&count_private=true"> <img height="200" src="https://github-readme-stats.vercel.app/api?username=ANG3L-GAMBOA&theme=tokyonight&show_icons=true&count_private=true">
+   
    
  </div>
 
