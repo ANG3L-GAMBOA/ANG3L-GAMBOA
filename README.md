@@ -4,7 +4,7 @@
 <table align="right">
 
 <p align="center">
-    <a href="https:https://my-website-opal-pi.vercel.app/" target="_blank">
+    <a href="https://my-website-opal-pi.vercel.app/" target="_blank">
     <img alt="Angel Gamboa" src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white"/>
     </a>
     <a href="https://github.com/ANG3L-GAMBOA" target="blank">
