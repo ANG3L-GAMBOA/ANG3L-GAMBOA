@@ -43,60 +43,22 @@
 
 ## 🛠 <!-- Skills -->In Learning
 
-<div style="display: inline_block" align="center"><br>
-    <a href="https://www.php.net/downloads.php" target="_blank">
-    <img align="center" alt="Php" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-    </a>
-    <a href="https://lenguajehtml.com/html/">
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    </a>
-    <a href="https://developer.mozilla.org/es/docs/Web/CSS">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    </a>
-    <!--<img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">-->
-    <!--<img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">-->
-    <!-- <img align="center" alt="Nextjs" height="30" width="46" src="https://raw.githubusercontent.com/JosephVTX/icons/main/nextjs-icon.svg">-->
-    <a href="https://www.python.org/">
-    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    </a>
-   <!--<a href="https://www.selenium.dev/">
-    <img align="center" alt="Selenium" height="30" width="40" src="https://raw.githubusercontent.com/JosephVTX/icons/main/selenium-icon.svg">
-    </a>-->
-    <a href="https://nodejs.org/es">
-    <img align="center" alt="NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/JosephVTX/icons/main/nodejs-icon.svg">
-    </a>
-    <a href="https://laravel.com/docs/11.x/readme">
-    <img align="center" alt="Laravel" height="30" width="40" src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg">
-    </a>
-    <a href="https://spring.io/projects/spring-boot">
-    <img align="center" alt="SpringBoot" height="30" width="40" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg">
-    </a>
-    <!--<img align="center" alt="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">-->
-    <!--<img align="center" alt="Firebase" height="30" width="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">-->
-    <a href="https://git-scm.com/">
-    <img align="center" alt="Git" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
-    </a>
-    <a href="https://www.mysql.com/"> 
-    <img align="center" alt="mysql" height="40" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg">
-    </a>
-    <a href="https://www.java.com/es/">
-    <img align="center" alt="java" height="40" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg">
-    </a>
-    <!--<img align="center" alt="Photoshop" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg">-->
-    <!--<img align="center" alt="Illustrator" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg">-->
-    <!--<img align="center" alt="Postman" height="30" width="40" src="https://www.svgrepo.com/show/354202/postman-icon.svg">-->
-    <!--<img align="center" alt="Wordpress" height="40" width="40" src="https://raw.githubusercontent.com/JosephVTX/icons/main/icons8-wordpress.svg">-->
-    <!--<img align="center" alt="Wix" height="40" width="40" src="https://raw.githubusercontent.com/JosephVTX/icons/main/wix-icon.svg">-->
-    <!--<img align="center" alt="Autocad" height="40" width="40" src="https://raw.githubusercontent.com/JosephVTX/icons/main/autocad-icon.svg">-->
-    <!--<img align="center" alt="Solidworks" height="40" width="40" src="https://raw.githubusercontent.com/JosephVTX/icons/main/solidwork-icon.svg">-->
-    <a href="https://getbootstrap.com" target="_blank">
-    <img align="center" alt="bootstrap" height="40" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg">
-    </a> 
-    <a href="https://www.microsoft.com/es-es/sql-server/sql-server-downloads">   
-    <img align="center" alt="sql-server" height="40" width="40" src="http://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg">
-    </a>
-  
-</div>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![Larabel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=Laravel&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Springboot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
+![GIT](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=Git&logoColor=white) 
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=Node.js&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SqlServer](https://img.shields.io/badge/Microsoft_SQL_Server-%234F4C4F.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 
 ##  📊 Estadisticas
 <div align="center">
