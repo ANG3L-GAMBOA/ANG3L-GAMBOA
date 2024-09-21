@@ -44,7 +44,7 @@ Here are some ideas to get you started:
     <a href="https://lenguajehtml.com/html/">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     </a>
-    <a href="#">
+    <a href="https://developer.mozilla.org/es/docs/Web/CSS">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     </a>
     <!--<img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">-->
@@ -64,9 +64,6 @@ Here are some ideas to get you started:
     </a>
     <a href="https://spring.io/projects/spring-boot">
     <img align="center" alt="SpringBoot" height="30" width="40" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg">
-    </a>
-    <a href="https://www.mysql.com/">
-    <img align="center" alt="MySql" height="30" width="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg">
     </a>
     <!--<img align="center" alt="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">-->
     <!--<img align="center" alt="Firebase" height="30" width="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">-->
