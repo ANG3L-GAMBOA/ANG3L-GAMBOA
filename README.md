@@ -13,6 +13,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+  
+<h1 align="center"><img src="IMG/code.gif" </h1>
+<h1 align="center">Hola, soy Cesar - BlackRubick <img src="IMG/saludo.gif" width="30px"></h1>
+
+<table align="right">
+
+</table>
+
+<details>
+  <summary>:zap: About me!</summary>
+
+###  💻 I am a software development student💻!!
+- 🧐 ¡I learn fast!
+- 😈 I want to specialize in cybersecurity
+- 😏 I am 20 years
+- 🇲🇽 I am from mexico
+</details>
 
 ## 🔗 Links
 
@@ -93,7 +110,6 @@ Here are some ideas to get you started:
 </div>
 
 ##  📊 Estadisticas
-
 <div align="center">
    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANG3L-GAMBOA&layout=compact&theme=tokyonight&count_private=true"> <img height="150" src="https://github-readme-stats.vercel.app/api?username=ANG3L-GAMBOA&theme=tokyonight&show_icons=true&count_private=true">
    
