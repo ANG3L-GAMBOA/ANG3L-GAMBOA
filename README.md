@@ -16,7 +16,7 @@ Here are some ideas to get you started:
   
 <h1 align="center"><img src="IMG/code.gif" </h1>
 <h1 align="center">Hola, soy Cesar - BlackRubick <img src="IMG/saludo.gif" width="30px"></h1>
-
+d
 <table align="right">
 
 </table>
