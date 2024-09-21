@@ -1,23 +1,7 @@
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
-<h1 align="center"><img src="IMG/code.gif" </h1>
-<h1 align="center">Hola, soy Angel - BlackRubick <img src="IMG/saludo.gif" width="30px"></h1>
-d
+<h1 align="center"><img src="IMG/code.gif" </h1> <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+<h1 align="center">Hola, soy Angel <img src="IMG/saludo.gif" width="30px"></h1>
+
 <table align="right">
-
-</table>
-
-<details>
-  <summary>:zap: About me!</summary>
-
-###  💻 I am a software development student💻!!
-- 🧐 ¡I learn fast!
-- 😈 I want to specialize in cybersecurity
-- 😏 I am 20 years
-- 🇲🇽 I am from mexico
-</details>
-
-## 🔗 Links
-
 
 <p align="center">
     <a href="https:https://my-website-opal-pi.vercel.app/" target="_blank">
@@ -36,6 +20,23 @@ d
     <img alt="rave 360" src="https://img.shields.io/badge/-Youtube-12sdkad2?style=for-the-badge&logo=Youtube&logoColor=white&color=red"/>
     </a>
 </p>
+
+</table>
+<details>
+<summary>:zap:About me!</summary>
+
+###  💻 I am a software development student💻!!
+- ¡I learn fast!
+- I want to specialize in Back-End
+-  I am 20 years
+- PE I am from Perú
+  <br>
+## ⚙️ PRODUCTIVIDAD
+
+  • SO: Windows</br>
+  • Terminal: Git </br>
+  • Editor de Texto : Visual Code</br>
+  </details>
 
 ## 🛠 <!-- Skills -->In Learning
 
@@ -97,14 +98,7 @@ d
 ##  📊 Estadisticas
 <div align="center">
    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANG3L-GAMBOA&layout=compact&theme=tokyonight&count_private=true"> <img height="150" src="https://github-readme-stats.vercel.app/api?username=ANG3L-GAMBOA&theme=tokyonight&show_icons=true&count_private=true">
-   
-   
  </div>
 
-## ⚙️ PRODUCTIVIDAD
-
-  • SO: Windows</br>
-  • Terminal: Git </br>
-  • Editor de Texto : Visual Code</br>
 
 
