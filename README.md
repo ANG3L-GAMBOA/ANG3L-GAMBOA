@@ -58,6 +58,12 @@
 ![SqlServer](https://img.shields.io/badge/Microsoft_SQL_Server-%234F4C4F.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-%23000000.svg?style=for-the-badge&logo=astro&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-%232C2D5B.svg?style=for-the-badge&logo=.net&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%EF7A24.svg?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+
 
 
 ##  📊 Estadisticas
