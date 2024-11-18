@@ -1,8 +1,19 @@
-<h1 align="center"><img src="IMG/code.gif" </h1> <!--<img align='right'src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>-->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
     
 <h1 align="center">Hola, soy Angel <img src="IMG/saludo.gif" width="30px"></h1>
 
-<table align="right">
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> Sobre mi
+
+<picture> <img align="right" src="IMG/code.gif" width = 300px></picture>
+
+- :school: I am a `Angel`
+- :technologist: **Currently I am studying** `and I learn from my own account` **&** `autodidact`
+- :boom: You can visit [MY WEBSITE]([https://my-website-opal-pi.vercel.app/) for some my projects
+- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&message=Angel%20Gamboa&color=EA4335&style=flat-square)](mailto:Angel_juan23@hotmail.com)
+- :nerd_face: Always believe `"You are what you loved"`
+
+## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="10%"> Redes
 
 <p align="center">
     <a href="https://my-website-opal-pi.vercel.app/" target="_blank">
@@ -22,26 +33,7 @@
     </a>
 </p>
 
-</table>
-<h2>
-<details>
-<summary>:zap:About me!</summary>
-
-###  💻 I am a software development student💻!! <img align="right" src="https://m.media-amazon.com/images/I/61er1NQjzVS._AC_UF894,1000_QL80_.jpg" alt="work in progress" width="256" />
-- ¡I learn fast! 
-- I want to specialize in Back-End
--  I am 20 years
-- PE I am from Perú
-  <br>
-## ⚙️ PRODUCTIVIDAD
-
-  • SO: Windows</br>
-  • Terminal: Git </br>
-  • Editor de Texto : Visual Code</br>
-  </details>
-  </h2>
-
-## 🛠 <!-- Skills -->In Learning
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> Habilidades/aprendizaje
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
@@ -62,11 +54,21 @@
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
+## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width=5%> IDEs
+<p align="center">
+<a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white" /></a>
+<a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white" /></a>
+<a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-%232C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white" /></a>
+<a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white" /></a>
+<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" /></a>
 
+</p>
 
-##  📊 Estadisticas
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Estadisticas
+
 <div align="center">
    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANG3L-GAMBOA&layout=compact&theme=tokyonight&count_private=true"> <img height="150" src="https://github-readme-stats.vercel.app/api?username=ANG3L-GAMBOA&theme=tokyonight&show_icons=true&count_private=true">
  </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
