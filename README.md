@@ -13,25 +13,6 @@
 - :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&message=Angel%20Gamboa&color=EA4335&style=flat-square)](mailto:Angel_juan23@hotmail.com)
 - :nerd_face: Always believe `"You are what you loved"`
 
-## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="10%"> Redes
-
-<p align="center">
-    <a href="https://my-website-opal-pi.vercel.app/" target="_blank">
-    <img alt="Angel Gamboa" src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-    </a>
-    <a href="https://github.com/ANG3L-GAMBOA" target="blank">
-    <img alt="Angel Gamboa" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-    <a href="https://www.linkedin.com/in/angel-gamboa-685bb4320/" target="_blank">
-    <img alt="#" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"/>
-    </a>
-    <a href="https://candidato.pe.computrabajo.com/candidate/home" target="_blank">
-    <img alt="Angel Gamboa Quispe" src="https://img.shields.io/badge/-Computrabajo-12sdkad2?style=for-the-badge&logo=Computrabajo&logoColor=white&color=skyblue"/>
-    </a>
-    <a href="https://www.youtube.com/@rave3602" target="_blank">
-    <img alt="rave 360" src="https://img.shields.io/badge/-Youtube-12sdkad2?style=for-the-badge&logo=Youtube&logoColor=white&color=red"/>
-    </a>
-</p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> Habilidades/aprendizaje
 
@@ -53,22 +34,25 @@
 ![Postman](https://img.shields.io/badge/Postman-%EF7A24.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+## <img src="https://media4.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30px"> Redes
 
-## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width=5%> IDEs
 <p align="center">
-<a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white" /></a>
-<a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white" /></a>
-<a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-%232C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white" /></a>
-<a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white" /></a>
-<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" /></a>
-
+    <a href="https://my-website-opal-pi.vercel.app/" target="_blank">
+    <img alt="Angel Gamboa" src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    </a>
+    <a href="https://github.com/ANG3L-GAMBOA" target="blank">
+    <img alt="Angel Gamboa" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/angel-gamboa-685bb4320/" target="_blank">
+    <img alt="#" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+    </a>
+    <a href="https://candidato.pe.computrabajo.com/candidate/home" target="_blank">
+    <img alt="Angel Gamboa Quispe" src="https://img.shields.io/badge/-Computrabajo-12sdkad2?style=for-the-badge&logo=Computrabajo&logoColor=white&color=skyblue"/>
+    </a>
+    <a href="https://www.youtube.com/@rave3602" target="_blank">
+    <img alt="rave 360" src="https://img.shields.io/badge/-Youtube-12sdkad2?style=for-the-badge&logo=Youtube&logoColor=white&color=red"/>
+    </a>
 </p>
-
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Estadisticas
-
-<div align="center">
-   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANG3L-GAMBOA&layout=compact&theme=tokyonight&count_private=true"> <img height="150" src="https://github-readme-stats.vercel.app/api?username=ANG3L-GAMBOA&theme=tokyonight&show_icons=true&count_private=true">
- </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
